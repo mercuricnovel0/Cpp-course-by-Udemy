@@ -10,3 +10,10 @@ The program prompts the user to enter their favorite number between 1 and 100. I
 * Using `std::cin` to read integer input from the user.
 * Understanding the basic structure of a C++ program (`main` function).
 * Basic use of `std::endl` for line breaks.
+
+## 🛠 How to Build
+To compile this specific file using g++, use:
+
+`g++ main.cpp -o favorite_number`
+
+`./favorite_number`
