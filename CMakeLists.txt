@@ -10,6 +10,9 @@ add_executable(CarpetCleaning Variables-and-Constants/main.cpp)
 add_executable(Vectors Vectors-and-2D-Vectors/main.cpp)
 
 add_executable(Change Statements-and-Operators/main.cpp)
+
 add_executable(Control_Flow Control-Flow/main.cpp)
+
 add_executable(Cipher Cipher/main.cpp)
+
 add_executable(New_control_flow New-control-flow/main.cpp)
